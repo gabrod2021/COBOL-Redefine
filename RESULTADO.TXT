@@ -1,0 +1,4 @@
+1001TOMATE              VERDULERIA          $     0,00$     0,00
+1002ASADO               CARNICERIA          $ 1.010,99$ 1.223,29
+1015AZUCAR              ALMACEN             $   200,99$   243,19
+1017FIDEOS              ALMACEN             $   332,99$   402,91
